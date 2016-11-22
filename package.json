@@ -1,0 +1,16 @@
+{
+  "name": "addresstool",
+  "version": "1.0.0",
+  "description": "address tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "marcusma",
+  "license": "ISC",
+  "dependencies": {
+    "httpsync": "0.0.8",
+    "request": "^2.79.0",
+    "request-promise": "^4.1.1"
+  }
+}
